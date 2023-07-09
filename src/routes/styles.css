@@ -106,7 +106,7 @@ button:focus:not(:focus-visible) {
 }
 
 .container {
-	@apply px-[2%] sm:px-[5%] md:px-[10%] lg:px-[15%] xl:px-[20%];
+	@apply max-w-[100vw] px-[2%] sm:px-[5%] md:px-[10%] lg:px-[15%] xl:px-[20%];
 }
 
 .section-gap {
